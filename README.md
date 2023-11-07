@@ -19,7 +19,7 @@ The client-side of the UDP Pinger runs on a separate thread, while the server-si
 How to Use
 Follow these steps to set up and use the UDP Pinger:
 
-#### Prerequisites
+## Prerequisites
 1. Python environment with required libraries
 2. Clone this repository to your local machine
 3. Navigate to the project directory
